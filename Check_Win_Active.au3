@@ -1,5 +1,5 @@
 HotKeySet("+{HOME}","main") ; Shift + HOME
-HotKeySet("+{END}","end")	; Shift + END
+HotKeySet("+{END}","end")   ; Shift + END
 
 Func end()
 	Exit
